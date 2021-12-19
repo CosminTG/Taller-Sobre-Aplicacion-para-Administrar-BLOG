@@ -1,0 +1,5 @@
+C:\Users\Sergio Rodriguez\Desktop\SEXTO CUATRIMESTRE\MATERIAS_SEXTO_CUATRIMESTRE\PROGRAMACION V\Aplicacion_Para_Administrar_BLOG\EFGetStarted\obj\Debug\net6.0\EFGetStarted.csproj.AssemblyReference.cache
+C:\Users\Sergio Rodriguez\Desktop\SEXTO CUATRIMESTRE\MATERIAS_SEXTO_CUATRIMESTRE\PROGRAMACION V\Aplicacion_Para_Administrar_BLOG\EFGetStarted\obj\Debug\net6.0\EFGetStarted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio Rodriguez\Desktop\SEXTO CUATRIMESTRE\MATERIAS_SEXTO_CUATRIMESTRE\PROGRAMACION V\Aplicacion_Para_Administrar_BLOG\EFGetStarted\obj\Debug\net6.0\EFGetStarted.AssemblyInfoInputs.cache
+C:\Users\Sergio Rodriguez\Desktop\SEXTO CUATRIMESTRE\MATERIAS_SEXTO_CUATRIMESTRE\PROGRAMACION V\Aplicacion_Para_Administrar_BLOG\EFGetStarted\obj\Debug\net6.0\EFGetStarted.AssemblyInfo.cs
+C:\Users\Sergio Rodriguez\Desktop\SEXTO CUATRIMESTRE\MATERIAS_SEXTO_CUATRIMESTRE\PROGRAMACION V\Aplicacion_Para_Administrar_BLOG\EFGetStarted\obj\Debug\net6.0\EFGetStarted.csproj.CoreCompileInputs.cache
